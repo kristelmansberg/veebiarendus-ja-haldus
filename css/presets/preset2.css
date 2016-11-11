@@ -1,0 +1,136 @@
+a {
+  color: #00c8aa;
+}
+a:hover {
+  color: #00957f;
+}
+.sp-megamenu-parent >li.active>a,
+.sp-megamenu-parent >li:hover>a {
+  color: rgba(42,43,47,0.75);
+  border-radius: 0px;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item >a:hover {
+  color: #fff !important;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item.active>a {
+  color: #fff;
+}
+#offcanvas-toggler >i {
+  color: #999;
+}
+#offcanvas-toggler >i:hover {
+  color: #00c8aa;
+}
+.btn-primary,
+.sppb-btn-primary {
+  background-color: #00c8aa;
+  color: #fff;
+}
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.sppb-btn-primary:hover,
+.sppb-btn-primary:focus,
+.sppb-btn-primary:active {
+  color: #fff;
+  background-color: #00957f;
+}
+ul.social-icons >li a:hover {
+  color: #00c8aa;
+}
+.layout-boxed .body-innerwrapper {
+  background: #ffffff;
+}
+.sp-module ul >li >a {
+  color: #999;
+}
+.sp-module ul >li >a:hover {
+  color: #00c8aa;
+}
+.sp-module .latestnews >div >a {
+  color: #777777;
+}
+.sp-module .latestnews >div >a:hover {
+  color: #00c8aa;
+}
+.sp-module .tagscloud .tag-name:hover {
+  background: #00c8aa;
+}
+.sp-simpleportfolio .sp-simpleportfolio-filter > ul > li.active > a,
+.sp-simpleportfolio .sp-simpleportfolio-filter > ul > li > a:hover {
+  background: rgba(0,0,0,0);
+  border-bottom: 2px solid #00c8aa;
+  color: #00c8aa;
+}
+.search .btn-toolbar button {
+  background: #00c8aa;
+}
+.post-format {
+  background: #00c8aa;
+}
+.voting-symbol span.star.active:before {
+  color: #00c8aa;
+}
+.sp-rating span.star:hover:before,
+.sp-rating span.star:hover ~ span.star:before {
+  color: #00957f;
+}
+.entry-link,
+.entry-quote {
+  background: #00c8aa;
+}
+blockquote {
+  border-color: #00c8aa;
+}
+.carousel-left:hover,
+.carousel-right:hover {
+  background: #00c8aa;
+}
+#sp-footer {
+  background: #fff;
+}
+.sp-comingsoon body {
+  background-color: #00c8aa;
+}
+.pagination>li>a,
+.pagination>li>span {
+  color: #777777;
+}
+.pagination>li>a:hover,
+.pagination>li>a:focus,
+.pagination>li>span:hover,
+.pagination>li>span:focus {
+  color: #777777;
+}
+.pagination>.active>a,
+.pagination>.active>span {
+  border-color: #00c8aa;
+  background-color: #00c8aa;
+}
+.pagination>.active>a:hover,
+.pagination>.active>a:focus,
+.pagination>.active>span:hover,
+.pagination>.active>span:focus {
+  border-color: #00c8aa;
+  background-color: #00c8aa;
+}
+select:focus,
+textarea:focus,
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="time"]:focus,
+input[type="week"]:focus,
+input[type="number"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="color"]:focus,
+.uneditable-input:focus,
+.form-control:focus {
+  border-color: #00c8aa !important;
+}
